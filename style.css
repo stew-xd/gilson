@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+    font-family: 'Segoe UI';
+    color: red;
+    font-size: larger;
+    
+  }
+  
+  body {
+    background-image: url("https://www.comprerural.com/wp-content/uploads/2023/03/presidente-lula-com-o-bone-do-mst-bandeira-do-moviment-ao-fundo.jpg");
+
+  }
+  h2 {
+font-style: normal;
+font-family: Arial;
+color: black;
+font-size: medium;
+  }
+  
+  button {
+size: 40px;
+  }
+  
